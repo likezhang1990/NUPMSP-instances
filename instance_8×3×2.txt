@@ -1,0 +1,11 @@
+The number of jobs:
+8
+The number of machines:
+3
+The number of workers:
+2
+The processing power of each machine:
+(where columns denote machines: 1 to 3)The idle power of each machine:
+(where columns denote machines: 1 to 3)The initial coefficient of each worker on each machine:
+(where rows denote workers: 1 to 2 and columns denote machines: 1 to 
+3)
